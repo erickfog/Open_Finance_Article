@@ -1,5 +1,11 @@
 # Open Finance e Inteligência Artificial: A União Entre Finanças e Tecnologia
 
+
+<div align="center">
+
+![CreditScoreProject](https://github.com/erickfog/Open_Finance_Article/blob/main/img/inova1lugar.jpeg)
+
+
 Autor: Erick Filipe Oliveira Gomes¹, Luiz Gustavo Bonander Nugnes², Rogério Melfi³
 
 Instituição: Tecnologia Bancária S.A, São Paulo, Brasil¹²³
