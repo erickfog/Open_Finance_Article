@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![CreditScoreProject](https://github.com/erickfog/Open_Finance_Article/inova1lugar.jpeg)
+![Open_Finance_Article](https://github.com/erickfog/Open_Finance_Article/inova1lugar.jpeg)
 
 
 Autor: Erick Filipe Oliveira Gomes¹, Luiz Gustavo Bonander Nugnes², Rogério Melfi³
