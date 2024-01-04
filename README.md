@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![inova1lugar](https://github.com/erickfog/Open_Finance_Article/blob/main/inova1lugar.jpeg)
+![inova1lugar](https://github.com/erickfog/Open_Finance_Article/main/inova1lugar.jpeg)
 
 
 Autor: Erick Filipe Oliveira Gomes¹, Luiz Gustavo Bonander Nugnes², Rogério Melfi³
